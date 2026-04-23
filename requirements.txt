@@ -1,0 +1,6 @@
+pyotp
+qrcode
+pillow
+pyperclip
+gunicorn
+flask
